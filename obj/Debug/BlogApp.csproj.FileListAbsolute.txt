@@ -11,3 +11,4 @@ c:\users\cyber academy\source\repos\BlogApp\BlogApp\obj\Debug\BlogApp.csproj.Gen
 c:\users\cyber academy\source\repos\BlogApp\BlogApp\bin\Debug\BlogApp.exe.config
 c:\users\cyber academy\source\repos\BlogApp\BlogApp\bin\Debug\BlogApp.exe
 c:\users\cyber academy\source\repos\BlogApp\BlogApp\obj\Debug\BlogApp.exe
+c:\users\cyber academy\source\repos\BlogApp\BlogApp\obj\Debug\BlogApp.Migrations.Initial1.resources

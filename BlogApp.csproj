@@ -54,6 +54,10 @@
     <Compile Include="Migrations\201803231330149_Initial.Designer.cs">
       <DependentUpon>201803231330149_Initial.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201803231701571_Initial1.cs" />
+    <Compile Include="Migrations\201803231701571_Initial1.Designer.cs">
+      <DependentUpon>201803231701571_Initial1.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Model\Map\AuthorMap.cs" />
     <Compile Include="BlogAppDbContext.cs" />
@@ -64,6 +68,7 @@
     <Compile Include="BlogAppDbInitializer.cs" />
     <Compile Include="Model\Post.cs" />
     <Compile Include="Model\Map\PostMap.cs" />
+    <Compile Include="Model\Tag.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Repository\BlogRepository.cs" />
     <Compile Include="Repository\IRepository.cs" />
@@ -76,6 +81,9 @@
   <ItemGroup>
     <EmbeddedResource Include="Migrations\201803231330149_Initial.resx">
       <DependentUpon>201803231330149_Initial.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201803231701571_Initial1.resx">
+      <DependentUpon>201803231701571_Initial1.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
