@@ -1,0 +1,13 @@
+c:\users\cyber academy\source\repos\BlogApp\BlogApp\obj\Debug\BlogApp.csprojResolveAssemblyReference.cache
+c:\users\cyber academy\source\repos\BlogApp\BlogApp\obj\Debug\BlogApp.csproj.CoreCompileInputs.cache
+c:\users\cyber academy\source\repos\BlogApp\BlogApp\bin\Debug\BlogApp.pdb
+c:\users\cyber academy\source\repos\BlogApp\BlogApp\bin\Debug\EntityFramework.dll
+c:\users\cyber academy\source\repos\BlogApp\BlogApp\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\cyber academy\source\repos\BlogApp\BlogApp\bin\Debug\EntityFramework.xml
+c:\users\cyber academy\source\repos\BlogApp\BlogApp\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\cyber academy\source\repos\BlogApp\BlogApp\obj\Debug\BlogApp.pdb
+c:\users\cyber academy\source\repos\BlogApp\BlogApp\obj\Debug\BlogApp.Migrations.Initial.resources
+c:\users\cyber academy\source\repos\BlogApp\BlogApp\obj\Debug\BlogApp.csproj.GenerateResource.Cache
+c:\users\cyber academy\source\repos\BlogApp\BlogApp\bin\Debug\BlogApp.exe.config
+c:\users\cyber academy\source\repos\BlogApp\BlogApp\bin\Debug\BlogApp.exe
+c:\users\cyber academy\source\repos\BlogApp\BlogApp\obj\Debug\BlogApp.exe
